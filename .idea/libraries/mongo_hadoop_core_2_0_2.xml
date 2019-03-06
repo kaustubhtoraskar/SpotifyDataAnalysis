@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mongo-hadoop-core-2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mongo-hadoop-core-2.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mongo-java-driver-3.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mongodb-driver-sync-3.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
